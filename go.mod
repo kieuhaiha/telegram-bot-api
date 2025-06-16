@@ -1,3 +1,3 @@
-module github.com/kieuh/telegram-bot-api
+module github.com/kieuhaiha/telegram-bot-api
 
 go 1.18
